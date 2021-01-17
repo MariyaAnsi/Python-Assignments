@@ -1,5 +1,4 @@
 # Write a program to prompt the user for hours and rate per hour using input to compute gross pay.
-#Do not name your variable sum or use the sum() function.
 h = float(input("Enter Hours:"))
 r = float(input("Enter Rate:"))
 def computepay(h,r) :
