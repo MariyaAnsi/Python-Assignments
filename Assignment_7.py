@@ -1,3 +1,6 @@
+
+#Write a programa to open the file words.txt and read data from file where specific line to end.
+
 fname = input("Enter file name: ")
 if len(fname) < 1 : fname = "words.txt"
 emptylist = list()
